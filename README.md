@@ -1,16 +1,8 @@
-# heal
+# HEAL
 
 Project HEAL for CSYA Hackathon 2023
 
-## Getting Started
+## Links
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+YouTube Video: [Video Link](https://youtu.be/TvZW-SwVTog)
+App Download File: [Android Download File](https://drive.google.com/file/d/10wcR2OyHf6NreyZ-6pjgRvg0QrGjhZof/view?usp=sharing)
